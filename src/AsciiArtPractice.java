@@ -44,7 +44,17 @@ public class AsciiArtPractice {
 		
 		System.out.println(catBike);
 				
-				
+		String angryCat;
+		angryCat ="    /\\   \n" +
+				  "  /\\||/\\ \n" +
+				  " (  \\ /  ) \n" +
+				  " /  o o  \\ \n" +
+				  " \\__~~~__/ grr! \n" +
+				  "   /   \\ \n" +
+				  "  / ___ \\ \n" +
+				  "  \\/___\\/ \n";
+
+		System.out.println(angryCat);
 		
 		
 		
